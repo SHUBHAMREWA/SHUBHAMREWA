@@ -24,7 +24,7 @@
 
 - 💻 **Full Stack Developer** building amazing web experiences
 - 🌱 **Currently Learning** advanced React patterns, cloud deployment & AI integration
-- 🎯 **Focused On** MERN Stack, Next.js, and Google Gemini API
+- 🎯 **Focused On** MERN Stack, Next.js, and  API
 - 🔧 **Expertise** in JavaScript, React, Node.js, MongoDB
 - 🤝 **Open to** collaboration on exciting projects
 - 💡 **Philosophy** Clean code, user experience, and continuous learning
