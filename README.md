@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&width=600&height=60&lines=Hey+there!+I'm+Shubham+👋;Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+About+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&width=600&height=60&lines=Hey+there!+I'm+Shubham+👋;Full+Stack+Developer;Generative+Ai;Passionate+About+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -91,15 +91,7 @@
 🤖 Exploring machine learning integration  
 🌐 Contributing to open-source projects  
 
----
 
-## 📈 Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBHAMREWA&theme=tokyo-night" alt="Contribution Graph" />
-</div>
-
----
 
 ## 💬 Let's Connect!
 
